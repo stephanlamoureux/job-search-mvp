@@ -31,7 +31,7 @@
 - Infinite scroll
 - Indeed API
 - Version 2 can include custom VetsWhoCode API where we can add custom job results based on opportunities we know about
-- We will use SMACSS to create a design system similar to Designsystem.digital.gov (US Web Design System USWDS)
+- We will use SMACSS to create a design system similar to [US Web Design System USWDS](Designsystem.digital.gov)
 - We can use the VWC design system we can start the migration from bootstrap with our own design system
 - The table for the site will be done is css grid
 - Bootstrap 3.3.6 for the layout
