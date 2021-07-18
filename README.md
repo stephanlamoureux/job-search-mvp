@@ -1,4 +1,4 @@
-# [VWC Job Finder](https://stephanlamoureux.github.io/job-search-mvp/)
+# [VWC Job Finder](https://stephanlamoureux.github.io/job-search-mvp/)🔗
 
 ## Project Planning Meeting for "VWC Job Finder" a.k.a. "Javascript Job Search"
 
